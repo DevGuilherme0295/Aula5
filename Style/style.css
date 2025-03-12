@@ -1,4 +1,4 @@
-table{
+/* table{
     text-align: center;
     margin: 20px auto;
     width: 50%;
@@ -27,5 +27,16 @@ td {
 }
 
 .linhas-pares {
-    background-color: rgb(187, 184, 184);
+    background-color: rgb(163, 161, 161);
+} */
+
+.flex {
+    display: flex;
+    justify-content: ;
+    flex-wrap: wrap;
+}
+
+.filhos{
+    border: 1px solid black;
+    width: 300px;
 }
